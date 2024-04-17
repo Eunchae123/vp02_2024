@@ -1,0 +1,11 @@
+C:\Users\konyang\source\repos\test\021_Clock\obj\Debug\021_Clock.csproj.AssemblyReference.cache
+C:\Users\konyang\source\repos\test\021_Clock\obj\Debug\021_Clock.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\source\repos\test\021_Clock\obj\Debug\_021_Clock.Form1.resources
+C:\Users\konyang\source\repos\test\021_Clock\obj\Debug\_021_Clock.Properties.Resources.resources
+C:\Users\konyang\source\repos\test\021_Clock\obj\Debug\021_Clock.csproj.GenerateResource.cache
+C:\Users\konyang\source\repos\test\021_Clock\obj\Debug\021_Clock.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\test\021_Clock\bin\Debug\021_Clock.exe.config
+C:\Users\konyang\source\repos\test\021_Clock\bin\Debug\021_Clock.exe
+C:\Users\konyang\source\repos\test\021_Clock\bin\Debug\021_Clock.pdb
+C:\Users\konyang\source\repos\test\021_Clock\obj\Debug\021_Clock.exe
+C:\Users\konyang\source\repos\test\021_Clock\obj\Debug\021_Clock.pdb

@@ -1,0 +1,11 @@
+C:\Users\konyang\source\repos\test\020_marthGraph\bin\Debug\020_marthGraph.exe.config
+C:\Users\konyang\source\repos\test\020_marthGraph\bin\Debug\020_marthGraph.exe
+C:\Users\konyang\source\repos\test\020_marthGraph\bin\Debug\020_marthGraph.pdb
+C:\Users\konyang\source\repos\test\020_marthGraph\obj\Debug\020_marthGraph.csproj.AssemblyReference.cache
+C:\Users\konyang\source\repos\test\020_marthGraph\obj\Debug\020_marthGraph.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\source\repos\test\020_marthGraph\obj\Debug\_020_marthGraph.Form1.resources
+C:\Users\konyang\source\repos\test\020_marthGraph\obj\Debug\_020_marthGraph.Properties.Resources.resources
+C:\Users\konyang\source\repos\test\020_marthGraph\obj\Debug\020_marthGraph.csproj.GenerateResource.cache
+C:\Users\konyang\source\repos\test\020_marthGraph\obj\Debug\020_marthGraph.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\test\020_marthGraph\obj\Debug\020_marthGraph.exe
+C:\Users\konyang\source\repos\test\020_marthGraph\obj\Debug\020_marthGraph.pdb
